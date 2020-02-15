@@ -1,0 +1,3 @@
+point_cloud_name: /os1_cloud_node/points
+
+point_cloud_frame: os1_lidar
